@@ -1,2 +1,2 @@
 # meta-gfutures
-BSP layer for Openpli
+BSP layer for gfutures
